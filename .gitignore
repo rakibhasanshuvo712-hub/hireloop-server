@@ -1,2 +1,9 @@
-.env
 node_modules
+.env
+.env*.local
+.next
+out
+dist
+build
+*.log
+.DS_Store
